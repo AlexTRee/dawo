@@ -13,14 +13,17 @@ datasets:
 - tahoebio/Tahoe-100M
 ---
 
-# Ranking
-### 2nd Place Award ($10,000 AWS credits)
-
 
 # DAWO: Drug-Aware and Cell-line-Aware Variational Autoencoder
 
-
 [![tahoe-deepdive](https://img.shields.io/badge/tag-tahoe--deepdive-blue)](https://huggingface.co/datasets/tahoebio/Tahoe-100M)
+
+![model](https://github.com/user-attachments/assets/2602ea44-ff3c-45c0-b95f-453d6821d11b)
+
+## Competetion
+### [Inaugural Hackathon for building on Tahoe-100M](https://www.tahoebio.ai/news/inaugural-hackathon-for-building-on-tahoe-100m)
+![tahoe_hackathon](https://github.com/user-attachments/assets/ec587fde-323b-490a-b87b-4a72c0504338)
+
 
 
 ## Team Name
@@ -156,7 +159,14 @@ GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/simonniu/dawo
 
 
 ## Dataset
-This model was developed using the [Tahoe-100M](https://huggingface.co/datasets/tahoebio/Tahoe-100M) dataset as part of the Tahoe-DeepDive Hackathon 2025.
+This model was developed using the [Tahoe-100M](https://huggingface.co/datasets/tahoebio/Tahoe-100M) dataset as part of the Tahoe-DeepDive Hackathon 2025.<br><br>
+
+![tahoe100m](https://github.com/user-attachments/assets/df4c1b0e-9677-43d6-9255-fd203ae96d9e)
+
+
+# Final Ranking 🏅
+### 🥈 **2nd Place Award**
+($10,000 AWS credits)<br><br>
 
 
 ## License
