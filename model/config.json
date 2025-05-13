@@ -1,0 +1,11 @@
+{
+    "input_dim_X": 5000,
+    "input_dim_Y": 3122,
+    "input_dim_Z": 113,
+    "latent_dim": 50,
+    "latent_dim_mid": 500,
+    "Y_emb": 50,
+    "Z_emb": 50,
+    "num_classes": 379,
+    "beta": 0.1
+} 
